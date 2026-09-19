@@ -75,7 +75,7 @@ I value software that encourages**, collaboration and learning**. Over time I wa
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/gabrieltamarossi/">
   <img src="https://img.shields.io/badge/LinkedIn-0F1117?style=for-the-badge&logo=linkedin&logoColor=88C0D0" alt="LinkedIn">
 </a>
 
